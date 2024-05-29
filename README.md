@@ -2,8 +2,6 @@
 
 # SwapReads.com
 
-![swap3](https://github.com/anuragverma108/SwapReads/assets/133582566/aa2d00bb-92fc-4363-8c68-11612666b218)
-
 
 <i>Connect, Exchange, Explore – Where Book Enthusiasts Swap Books and Discover New Literary Adventures!</i>
 
@@ -25,11 +23,11 @@
      </thead>
     <tbody>
          <tr>
-            <td><img alt="Stars" src="https://img.shields.io/github/stars/anuragverma108/SwapReads?style=flat&logo=github"/></td>
-             <td><img alt="Forks" src="https://img.shields.io/github/forks/anuragverma108/SwapReads?style=flat&logo=github"/></td>
-            <td><img alt="Issues" src="https://img.shields.io/github/issues/anuragverma108/SwapReads?style=flat&logo=github"/></td>
-            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/anuragverma108/SwapReads?style=flat&logo=github"/></td>
-           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/anuragverma108/SwapReads?style=flat&color=critical&logo=github"/></td>
+            <td><img alt="Stars" src="https://img.shields.io/github/stars/Anjaliavv51/Vintage-Retro-Books?style=flat&logo=github"/></td>
+             <td><img alt="Forks" src="https://img.shields.io/github/forks/Anjaliavv51/Vintage-Retro-Books?style=flat&logo=github"/></td>
+            <td><img alt="Issues" src="https://img.shields.io/github/issues/Anjaliavv51/Vintage-Retro-Books?style=flat&logo=github"/></td>
+            <td><img alt="Open Pull Requests" src="https://img.shields.io/github/issues-pr/Anjaliavv51/Vintage-Retro-Books?style=flat&logo=github"/></td>
+           <td><img alt="Close Pull Requests" src="https://img.shields.io/github/issues-pr-closed/Anjaliavv51/Vintage-Retro-Books?style=flat&color=critical&logo=github"/></td>
         </tr>
     </tbody>
 </table>
@@ -38,25 +36,6 @@
 <div align="center">
 SwapReads.com is the solution to common challenges faced by book enthusiasts in today's digital age. We've identified key problems and developed a platform that addresses them efficiently and effectively.
 </div>
-
-<hr>
-
-## Featured In
-
-<table>
-
-   <tr>
-      <th>Event Logo</th>
-      <th>Event Name</th>
-      <th>Event Description</th>
-   </tr>
-   <tr>
-      <td><img src=".github/assets/gssoc24.png" width="200" height="auto" loading="lazy" alt="GSSoC 24"/></td>
-      <td>GirlScript Summer of Code 2024</td>
-      <td>GirlScript Summer of Code is a three-month-long Open Source Program conducted every summer by GirlScript Foundation. It is an initiative to bring more beginners to Open-Source Software Development.</td>
-   </tr>
-
-</table>
 
 <hr>
 
@@ -131,27 +110,6 @@ Join SwapReads.com today and embark on a literary journey like never before!
   <h2>🔗 Contact Us</h2>
 </div>
 
-<table>
-    <tr>
-        <th>Role</th>
-        <th>LinkedIn</th>
-        <th>Discord</th>
-        <th>Email</th>
-    </tr>
-    <tr>
-        <td>Project Admin</td>
-        <td><a href="https://www.linkedin.com/in/anurag-verma-b91417253/" target="_blank">LinkedIn</a></td>
-        <td><a href="https://discordapp.com/users/anuragverma_108" target="_blank" class="discord">Discord</a></td>
-        <td>anuragvermacontact@gmail.com</td>
-    </tr>
-    <tr>
-        <td>Mentor</td>
-        <td><a href="https://www.linkedin.com/in/huamanraj/" target="_blank">LinkedIn</a></td>
-        <td><a href="https://discordapp.com/users/amanraj" target="_blank" class="discord">Discord</a></td>
-        <td>amanraj12.ar@gmail.com</td>
-    </tr>
-</table>
-
 <hr>
 
 <!-- Code of conduct -->
@@ -173,7 +131,7 @@ If you find this project helpful, please consider giving it a star on GitHub! Yo
   <div align = "center">
  <h3>Thank you for contributing to our repository</h3>
 
-![Contributors](https://contrib.rocks/image?repo=anuragverma108/SwapReads)
+![Contributors](https://contrib.rocks/image?repo=Anjaliavv51/Vintage-Retro-Books)
 
 ### Show some ❤️ by starring this awesome repository!
 
